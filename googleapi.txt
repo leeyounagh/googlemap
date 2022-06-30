@@ -1,0 +1,6 @@
+api key 
+
+AIzaSyBGRsNeYWBKmbw5-YWDwHVL8EOnXx-KTRc
+
+Place ID: ChIJRUDITFTjDDURMb8emNI2vGY
+Feature type: administrative_area_level_1

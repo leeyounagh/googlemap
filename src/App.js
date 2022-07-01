@@ -1,11 +1,19 @@
-
 import './App.css';
-import MyComponent from './MyComponent';
+
+import Home from './Home';
+
+
+
+
+
+
 
 function App() {
   return (
-    <div className="App" >
-    <MyComponent></MyComponent>
+    <div style={{width:'500px',
+    height:'500px'}}className="App" >
+
+<Home></Home>
     </div>
   );
 }
